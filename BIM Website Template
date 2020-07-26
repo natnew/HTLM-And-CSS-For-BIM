@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+  <title>Anna Dowlin</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    
+    li{font-size: 22px
+    }
+    
+  </style>
+</head>
+<body>
+  <p>Hi! I'm Natasha, a London-based BIM Specialist. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+  <p>I specialise in the following:</p>
+  <li>Architecture</li>
+  <li>BIM - Building Information Modelling</li>
+  <li>Computational Design</li>
+  <li>Vr, AR, MR in Architecture</li>
+  <li>Python programming</li>
+  <li>Data Visualization</li>
+  
+</body>
